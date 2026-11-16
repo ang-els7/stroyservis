@@ -1,0 +1,3 @@
+[submodule "site-stroyservis"]
+	path = site-stroyservis
+	url = https://github.com/ang-els7/stroyservis.git
